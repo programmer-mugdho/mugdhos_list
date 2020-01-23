@@ -6,7 +6,9 @@ certifi==2019.11.28
 chardet==3.0.4
 Click==7.0
 colorama==0.4.1
+dj-database-url==0.5.0
 Django==2.2.7
+django-heroku==0.3.1
 Flask==1.1.1
 Flask-SQLAlchemy==2.4.1
 idna==2.8
@@ -16,6 +18,7 @@ Jinja2==2.10.3
 lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
+psycopg2==2.8.4
 pycodestyle==2.5.0
 pylint==2.4.3
 pytz==2019.3
@@ -29,4 +32,5 @@ urllib3==1.25.7
 virtualenv==16.7.7
 virtualenvwrapper-win==1.2.5
 Werkzeug==0.16.0
+whitenoise==5.0.1
 wrapt==1.11.2

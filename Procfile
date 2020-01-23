@@ -1,0 +1,1 @@
+web: gunicorn mugdhos_list.wsgi --log-file -
